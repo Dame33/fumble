@@ -1,6 +1,7 @@
 **Welcome to fumble.**
 
 Fantasy Football meets Bumble
+
 Hey! Thanks for checking out fumble. This project is currently a work in progress but stick around for any news/updates!
 
 
