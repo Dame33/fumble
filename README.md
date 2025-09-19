@@ -8,7 +8,7 @@ Hey! Thanks for checking out fumble. This project is currently a work in progres
 **NEW CHANGES 09/19/2025**
 
 
-Added new player about section with a scrollable carasel displaying general information , and 2 new player action shot on profile. Implemented player description, info on their draft position and current position + team. 3 New buttons on bottom of page, x mark, check mark, and report issue buttons. Working on logic for all three. Added new component on homepage (message button)
+Updated favouriting player component. Fixed formatting player about section with a scrollable carasel displaying general information, and 2 new player action shot on profile. Implemented player description, info on their draft position and current position + team. 3 New buttons on bottom of page, x mark, check mark, and report issue buttons. Working on logic for all three. Added new component on homepage (message button)
 
 
 <img width="393" height="781" alt="demo4" src="https://github.com/user-attachments/assets/b98c5f7c-f2b3-44e2-b7c1-d570ca2abb5f" />
