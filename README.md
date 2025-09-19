@@ -27,10 +27,11 @@ Updated favouriting player component. Fixed formatting player about section with
 
 
 **TO-DO List:**
-- Statistic page
+- ~~Trending page~~ -> Statistic page
 - *NEW* Work on button logic
 - Implement Start/Bench Logic
 - Add another sport instead of trending?
 - Have trending page reflect most favourited player?
 - Trending Page reflect best performers/most starting?
 - Reporting page
+- Implement new data to grade last season performers for statistic page?
