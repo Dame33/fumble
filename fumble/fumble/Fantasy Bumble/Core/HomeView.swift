@@ -19,7 +19,6 @@ struct HomeView: View {
                 header // header is kept as a var, so we can use spacer method to just push it all up
                 FilterView()
                 Divider()
-                
                 Spacer()
                 CardView()
             }

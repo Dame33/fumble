@@ -11,13 +11,14 @@ struct FaveView: View {
     var body: some View {
         ZStack() {
             Circle()
-                .fill(.nflWhite)
+                .fill(.nflBetterblue)
                 .frame(width: 40, height: 40)
             
-            Image(systemName: "star.fill")
-                .foregroundColor(.nflFlame)
+            Image(systemName: "bookmark.fill")
+                .foregroundColor(.nflOffwhite)
                 .font(.system(size:22))
         }
+        
         
     }
 }

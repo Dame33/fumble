@@ -96,10 +96,13 @@ struct Athlete: Codable, Identifiable{
                     )
                 ]
             )
+        
+        
             
     }
     
-    
+var images: [String]{        ["https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/f46402023bbc431b8616a05faeb231aa/Vikings_Seahawks_Football_50208_4370x2914_(0,236).jpg", "https://dims.apnews.com/dims4/default/9554c12/2147483647/strip/true/crop/5494x3663+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Fde%2F8590184293c58b665b5293d1d5ad%2F6de4dc682a6149d19d1e8fc3574124fb"]
+    }
     
 
     enum CodingKeys: String, CodingKey {
@@ -261,23 +264,24 @@ enum DisplayName: String, Codable {
     case washingtonCommanders = "Washington Commanders"
 }
 
+
+
 // MARK: - Athlete Pills Extension
 extension Athlete {
     
     var pills: [athletePill] {
         var array: [athletePill] = []
-        
-        // Weight
+        //Weight
         array.append(
             athletePill(emoji: "💪", text: "\(weight) lbs")
         )
         
-        // Height
+        //Height
         array.append(
-            athletePill(emoji: "📏", text: "\(height) in")
+            athletePill(emoji: "📏", text: "\(height) inches")
         )
         
-        // Position with emoji mapping
+        //Position with emoji mapping
         let positionEmoji: String
         switch position.abbreviation {
         case .qb: positionEmoji = "🤽‍♂️"
@@ -292,7 +296,7 @@ extension Athlete {
             athletePill(emoji: positionEmoji, text: position.abbreviation.rawValue)
         )
         
-        // Status
+        //Status
         let statusEmoji: String
         switch status.type {
         case .active: statusEmoji = "✅"
@@ -302,7 +306,7 @@ extension Athlete {
             athletePill(emoji: statusEmoji, text: status.type.rawValue)
         )
         
-        // Injury
+        //Injury
         let injuryEmoji: String
         if let injuries = injuries, !injuries.isEmpty {
             injuryEmoji = "❌"
@@ -313,7 +317,7 @@ extension Athlete {
             athletePill(emoji: injuryEmoji, text: injuries?.first?.status.rawValue ?? "Healthy")
         )
         
-        // Team
+        //Team
         array.append(
             athletePill(emoji: "🏈", text: team.abbreviation.rawValue)
         )
@@ -321,3 +325,4 @@ extension Athlete {
         return array
     }
 }
+
