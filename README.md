@@ -24,7 +24,7 @@ Updated favouriting player component. Fixed formatting player about section with
 <img width="421" height="809" alt="demo3" src="https://github.com/user-attachments/assets/1ffd8f99-388f-4260-8808-04d98e469c96" />
 
 
-**TO-DO List:**
+**Upcoming**
 - ~~Trending page~~ -> Statistic page
 - *NEW* Work on button logic
 - Implement Start/Bench Logic
