@@ -18,12 +18,9 @@ Updated favouriting player component. Fixed formatting player about section with
 
 ￼
 
-**HomeView + Up-to-date Roster moves**
+**HomeView (Up-to-date Roster moves) + Injured Player Example**
 
-￼<img width="432" height="798" alt="demo2" src="https://github.com/user-attachments/assets/717e8dd8-9c46-4a9d-b03c-8504816a4a3c" />
-
-**Injured Player Example**
-
+<img width="432" height="798" alt="demo2" src="https://github.com/user-attachments/assets/717e8dd8-9c46-4a9d-b03c-8504816a4a3c" />
 <img width="421" height="809" alt="demo3" src="https://github.com/user-attachments/assets/1ffd8f99-388f-4260-8808-04d98e469c96" />
 
 
