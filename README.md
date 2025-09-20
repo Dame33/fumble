@@ -21,14 +21,15 @@ This project is currently a work in progress — stick around for news and updat
 <img width="393" height="781" alt="demo4" src="https://github.com/user-attachments/assets/b98c5f7c-f2b3-44e2-b7c1-d570ca2abb5f" />
 <img width="398" height="779" alt="demo5" src="https://github.com/user-attachments/assets/1453f8fd-ebb1-4b0c-ac1f-a47aa2bed8df" />
 
-
-￼
+---￼
 
 ## HomeView (Roster Moves + Injured Player Example)
 
 <img width="432" height="798" alt="demo2" src="https://github.com/user-attachments/assets/717e8dd8-9c46-4a9d-b03c-8504816a4a3c" />
 <img width="421" height="809" alt="demo3" src="https://github.com/user-attachments/assets/1ffd8f99-388f-4260-8808-04d98e469c96" />
 
+
+---
 
 ## Upcoming Features
 - ~~Trending page~~ ➝ **Statistics page**
