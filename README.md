@@ -21,7 +21,7 @@ This project is currently a work in progress — stick around for news and updat
 <img width="393" height="781" alt="demo4" src="https://github.com/user-attachments/assets/b98c5f7c-f2b3-44e2-b7c1-d570ca2abb5f" />
 <img width="398" height="779" alt="demo5" src="https://github.com/user-attachments/assets/1453f8fd-ebb1-4b0c-ac1f-a47aa2bed8df" />
 
----￼
+
 
 ## HomeView (Roster Moves + Injured Player Example)
 
