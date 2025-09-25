@@ -7,7 +7,7 @@ This project is currently a work in progress — stick around for news and updat
 
 ---
 
-## 🚨 New Changes version 1.1 (09/19/2025)
+## 🚨 New Changes version 0.0.1 (09/19/2025)
 
 
 - Updated favouriting player component  
